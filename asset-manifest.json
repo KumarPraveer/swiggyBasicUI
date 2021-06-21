@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/swiggyBasicUI/static/css/main.5f0a7bb1.chunk.css",
-    "main.js": "/swiggyBasicUI/static/js/main.f1f8355a.chunk.js",
-    "main.js.map": "/swiggyBasicUI/static/js/main.f1f8355a.chunk.js.map",
+    "main.css": "/swiggyBasicUI/static/css/main.4e808fa3.chunk.css",
+    "main.js": "/swiggyBasicUI/static/js/main.fc3920ec.chunk.js",
+    "main.js.map": "/swiggyBasicUI/static/js/main.fc3920ec.chunk.js.map",
     "runtime-main.js": "/swiggyBasicUI/static/js/runtime-main.d92db267.js",
     "runtime-main.js.map": "/swiggyBasicUI/static/js/runtime-main.d92db267.js.map",
     "static/css/2.31b6f9e9.chunk.css": "/swiggyBasicUI/static/css/2.31b6f9e9.chunk.css",
-    "static/js/2.4e1825e3.chunk.js": "/swiggyBasicUI/static/js/2.4e1825e3.chunk.js",
-    "static/js/2.4e1825e3.chunk.js.map": "/swiggyBasicUI/static/js/2.4e1825e3.chunk.js.map",
+    "static/js/2.1d5f4bde.chunk.js": "/swiggyBasicUI/static/js/2.1d5f4bde.chunk.js",
+    "static/js/2.1d5f4bde.chunk.js.map": "/swiggyBasicUI/static/js/2.1d5f4bde.chunk.js.map",
     "index.html": "/swiggyBasicUI/index.html",
     "static/css/2.31b6f9e9.chunk.css.map": "/swiggyBasicUI/static/css/2.31b6f9e9.chunk.css.map",
-    "static/css/main.5f0a7bb1.chunk.css.map": "/swiggyBasicUI/static/css/main.5f0a7bb1.chunk.css.map",
-    "static/js/2.4e1825e3.chunk.js.LICENSE.txt": "/swiggyBasicUI/static/js/2.4e1825e3.chunk.js.LICENSE.txt"
+    "static/css/main.4e808fa3.chunk.css.map": "/swiggyBasicUI/static/css/main.4e808fa3.chunk.css.map",
+    "static/js/2.1d5f4bde.chunk.js.LICENSE.txt": "/swiggyBasicUI/static/js/2.1d5f4bde.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d92db267.js",
     "static/css/2.31b6f9e9.chunk.css",
-    "static/js/2.4e1825e3.chunk.js",
-    "static/css/main.5f0a7bb1.chunk.css",
-    "static/js/main.f1f8355a.chunk.js"
+    "static/js/2.1d5f4bde.chunk.js",
+    "static/css/main.4e808fa3.chunk.css",
+    "static/js/main.fc3920ec.chunk.js"
   ]
 }
